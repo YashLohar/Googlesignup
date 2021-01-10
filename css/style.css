@@ -1,0 +1,147 @@
+#container{
+    width: 1316px;
+    height: 692.08px;
+    background-color: white;
+    margin: 0 auto;
+}
+.master{
+    width: 750px;
+    height: 599px;
+    border: 1px solid lightgrey;
+    margin:0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.left{
+    width: 354px;
+    margin-top: 48px;
+    margin-bottom: 36px;
+    margin-left: 40px;
+    margin-right: 40px;
+    float: left;
+}
+.right{
+    width: 300px;
+    height:513px;
+    float: left;
+    margin-top: 48px;
+}
+.right img{
+    margin-top: 40px;
+    display: block;
+}
+.right p{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color:black;
+}
+.left h1{
+    margin-top: 24px;
+    color: #202124;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.3333px;
+    text-align: left;
+}
+.form{
+    width: 354.006px;
+    height: 416.057px;
+    margin-top: 40px;
+}
+form input[type=text]{
+    width:168.01px;
+    height:35.99px;
+    border-radius: 4px;
+    border: 1px solid lightgrey;
+    color: grey;
+    line-height: 24px;
+    text-align:left;
+    font-size: 15px;
+    margin-bottom: 27px;
+}
+form input[type=email]{
+    width:345px;
+    height:35.99px;
+    border-radius:4px;
+    border: 1px solid lightgrey;
+    color: grey;
+    line-height:24px;
+    font-size: 15px;
+}
+form p{
+    margin-top: 5px;
+    margin-left: 11px;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    font-size: 13px;
+    color: grey;
+    margin-bottom: 27px;
+}
+form h5{
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    color:rgb(0, 162, 255); 
+    font-size: 13px;
+    margin-bottom: 54px;
+}
+form input[type=password]{
+    width:168.01px;
+    height:35.99px;
+    border-radius: 4px;
+    border: 1px solid lightgrey;
+    color: grey;
+    line-height: 24px;
+    text-align:left;
+    font-size: 15px;
+}
+ form #p{
+    margin-top: 5px;
+    margin-left: 4px;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    font-size: 13px;
+    color: grey;
+    margin-bottom: 10px;
+}
+form input[type=checkbox]{
+    width: 40px;
+    height: 40px;
+    width: 20px;
+    display: block;
+    float: left;
+    margin-bottom: 24px;
+}
+form a{
+    text-decoration: none;
+}
+form label{
+    font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    display:block;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    color:#202124;
+    font-size: 14px;
+    margin-bottom: 24px;
+}
+form .submit{
+     width: 345px;
+     height: 30.99px;
+}
+.submit h5{
+    float: left;
+    width: 100px;
+    height: 15px;
+    position: relative;
+    top: -15px;
+    bottom: 0px;
+    left: -25px;
+}
+.submit input[type=submit]{
+    height:30.99px;
+    width: 70.99px;
+    background-color:#1a73e8;
+    color: white;
+    float: right;
+    border: none;
+    border-radius: 2px;
+}
